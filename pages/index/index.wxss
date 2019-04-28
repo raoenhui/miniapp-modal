@@ -1,0 +1,46 @@
+/**index.wxss**/
+/*
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}*/
+.tit{
+  font-size:36rpx;
+  color:#2e2d2d;
+  text-align:center;
+  line-height:48rpx;
+  -webkit-font-smoothing:antialiased;
+
+}
+.btn{
+  line-height:76rpx;
+  margin:0 auto;
+  height:76rpx;
+  width:610rpx;
+  background-image:linear-gradient(-45deg, #ff4f18 0%, #ff2000 26%, #f60b00 68%, #f10000 100%);
+  box-shadow:0 10rpx 20rpx 0 rgba(255, 62, 62, 0.20);
+  border-radius:44rpx;
+  font-family:PingFangSC-Medium;
+  font-size:34rpx;
+  color:#fff;
+  text-align:center;
+  margin-top:20rpx;
+  -webkit-font-smoothing:antialiased;
+
+}
